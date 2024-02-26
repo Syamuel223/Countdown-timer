@@ -5,18 +5,24 @@ This project is a simple countdown timer built using HTML and CSS. It allows use
 ## FEATURES
 
 . Set Custom Date and Time: Users can specify the date and time for the countdown to end.
+
 . Countdown Display: The timer displays the remaining time in days, hours, minutes, and seconds.
+
 . Responsive Design: The timer is designed to be responsive and adjusts to different screen sizes.
 
 ## TECHNOLOGIES USED
 . HTML
+
 . CSS
 
 ## HOW TO USE
 
 . Clone this repository to your local machine.
+
 . Open index.html in a web browser.
+
 . Set the desired date and time for the countdown.
+
 . The timer will start counting down immediately.
 
 ## SCREENSHOTS
